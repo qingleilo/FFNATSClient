@@ -18,8 +18,8 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+                              封装webSocketNATS消息中间件
+                         DESC
 
   s.homepage         = 'https://github.com/RobenLo/FFNATSClient'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
@@ -36,7 +36,7 @@ TODO: Add long description of the pod here.
   #   'FFNATSClient' => ['FFNATSClient/Assets/*.png']
   # }
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
+   s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
    s.dependency 'SocketRocket'
 end
