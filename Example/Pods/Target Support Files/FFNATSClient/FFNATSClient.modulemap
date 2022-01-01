@@ -1,0 +1,6 @@
+framework module FFNATSClient {
+  umbrella header "FFNATSClient-umbrella.h"
+
+  export *
+  module * { export * }
+}

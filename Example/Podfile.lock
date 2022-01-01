@@ -1,0 +1,23 @@
+PODS:
+  - FFNATSClient (0.1.0):
+    - SocketRocket
+  - SocketRocket (0.6.0)
+
+DEPENDENCIES:
+  - FFNATSClient (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SocketRocket
+
+EXTERNAL SOURCES:
+  FFNATSClient:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FFNATSClient: caea49e7f5cfeea86457f12e07e557a593e82483
+  SocketRocket: fccef3f9c5cedea1353a9ef6ada904fde10d6608
+
+PODFILE CHECKSUM: cb2536fd5f41f5b44c1895256ba3b4562b027910
+
+COCOAPODS: 1.11.2
