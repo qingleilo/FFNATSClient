@@ -1,8 +1,8 @@
 {
   "name": "FFNATSClient",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "summary": "NATS",
-  "description": "封装webSocketNATS消息中间件",
+  "description": "利用webScocket封装成NATS消息中间件",
   "homepage": "https://github.com/RobenLo/FFNATSClient",
   "license": {
     "type": "MIT",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/RobenLo/FFNATSClient.git",
-    "tag": "0.1.0"
+    "tag": "1.0.0"
   },
   "platforms": {
     "ios": "9.0"

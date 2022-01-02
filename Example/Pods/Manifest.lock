@@ -1,5 +1,5 @@
 PODS:
-  - FFNATSClient (0.1.0):
+  - FFNATSClient (1.0.0):
     - SocketRocket
   - SocketRocket (0.6.0)
 
@@ -15,7 +15,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  FFNATSClient: cafafd0d05b0fda6c0bbbd28cfc435e23f58f0f5
+  FFNATSClient: b3428027424c391515f6c3ce5c85944261a6f03d
   SocketRocket: fccef3f9c5cedea1353a9ef6ada904fde10d6608
 
 PODFILE CHECKSUM: cb2536fd5f41f5b44c1895256ba3b4562b027910
