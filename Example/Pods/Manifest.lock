@@ -15,7 +15,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  FFNATSClient: caea49e7f5cfeea86457f12e07e557a593e82483
+  FFNATSClient: cafafd0d05b0fda6c0bbbd28cfc435e23f58f0f5
   SocketRocket: fccef3f9c5cedea1353a9ef6ada904fde10d6608
 
 PODFILE CHECKSUM: cb2536fd5f41f5b44c1895256ba3b4562b027910

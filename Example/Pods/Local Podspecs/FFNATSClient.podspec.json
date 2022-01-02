@@ -1,8 +1,8 @@
 {
   "name": "FFNATSClient",
   "version": "0.1.0",
-  "summary": "A short description of FFNATSClient.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "NATS",
+  "description": "封装webSocketNATS消息中间件",
   "homepage": "https://github.com/RobenLo/FFNATSClient",
   "license": {
     "type": "MIT",
@@ -18,7 +18,8 @@
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "FFNATSClient/Classes/**/*",
+  "source_files": "FFNATSClient/Classes/*",
+  "public_header_files": "Pod/Classes/*.h",
   "dependencies": {
     "SocketRocket": [
 

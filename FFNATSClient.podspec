@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FFNATSClient'
-  s.version          = '0.1.0'
-  s.summary          = 'NATS消息中间件 封装webSocket'
+  s.version          = '1.0.0'
+  s.summary          = 'NATS'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-                              封装webSocketNATS消息中间件
+                              利用webScocket封装成NATS消息中间件
                          DESC
 
   s.homepage         = 'https://github.com/RobenLo/FFNATSClient'
