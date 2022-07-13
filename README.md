@@ -28,8 +28,6 @@ pod 'FFNATSClient'
 
 ## Author
 
-Roben, 15056568157@163.com
-
 ## License
 
 FFNATSClient is available under the MIT license. See the LICENSE file for more info.
